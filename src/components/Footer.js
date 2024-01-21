@@ -17,9 +17,7 @@ const Footer = () => {
         textAlign="center"
       >
         Made by <br/> 
-        Gautam Sharma (PRN : 2130331245057) <br/> 
-        Rushabh Aradwad (PRN : 2130331245056) <br/> 
-        Himanshu Singh (PRN : 2130331245058) 
+        Gautam Sharma
       </Typography>
     </Box>
   );
